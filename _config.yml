@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 977b6f9d79c25f18f884                            #生成的clientID
   clientSecret: 2aa9d0dd437b74c6ac5fee89ace4b4e9b42f6f8c    #生成的clientSecret
-  repo: AUROCHSY.github.io    #仓库名称
+  repo: myBlog    #仓库名称
   owner: AUROCHSY    #github用户名
   admin: AUROCHSY
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
