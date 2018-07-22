@@ -1,0 +1,2 @@
+在网站文件夹下cmd执行jekyll serve
+在地址栏输入localhost:4000
